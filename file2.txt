@@ -1,1 +1,2 @@
 today is wednesday. working on git
+second commit

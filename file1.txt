@@ -1,2 +1,0 @@
-file1 contents in the line1
-some more contents
